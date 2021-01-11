@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: divykj/wakatime-charts@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BRANCH_NAME: main
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}

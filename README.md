@@ -3,11 +3,11 @@
 Here is what I was working with last week according to WakaTime. 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   13 hrs 27 mins  ███████████████████████▒░   92.86 % 
-YAML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+TypeScript   14 hrs 32 mins  ███████████████████████▒░   93.07 % 
+JavaScript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+YAML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 <!--END_SECTION:waka-->
 

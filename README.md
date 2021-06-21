@@ -3,7 +3,11 @@
 Here is what I was working with last week according to WakaTime. 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   6 hrs 5 mins    ██████████████░░░░░░░░░░░   55.97 % 
+JavaScript   2 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.35 % 
+JSON         1 hr 28 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+YAML         47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 <!--END_SECTION:waka-->
 

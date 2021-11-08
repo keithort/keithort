@@ -3,11 +3,11 @@
 Here is what I was working with last week according to WakaTime. 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   9 hrs 6 mins    █████████████████▓░░░░░░░   70.98 % 
-Markdown     1 hr 49 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-JavaScript   47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-JSON         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+JavaScript   4 hrs 50 mins   ██████████▒░░░░░░░░░░░░░░   41.75 % 
+Markdown     2 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+TypeScript   2 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.92 % 
+JSON         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+CSS          27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 ```
 <!--END_SECTION:waka-->
 

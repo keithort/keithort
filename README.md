@@ -3,11 +3,11 @@
 Here is what I was working with last week according to WakaTime. 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs          █████████████████▓░░░░░░░   70.63 % 
-TypeScript   3 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.43 % 
-ERB          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+JavaScript   12 hrs 34 mins  █████████████████████░░░░   84.29 % 
+TypeScript   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+ERB          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+JSON         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Ruby         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 <!--END_SECTION:waka-->
 

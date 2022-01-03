@@ -3,11 +3,7 @@
 Here is what I was working with last week according to WakaTime. 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 30 mins   ████████████████████▓░░░░   82.97 % 
-JSON         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Other        25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Ruby         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

@@ -4,9 +4,8 @@ Here is what I was working with last week according to WakaTime.
 <!--START_SECTION:waka-->
 
 ```text
-JSON         6 hrs 52 mins   ████████▓░░░░░░░░░░░░░░░░   34.80 %
-TypeScript   3 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
-Other        3 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
+TypeScript   7 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   36.77 %
+Other        4 hrs 35 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
 ```
 
 <!--END_SECTION:waka-->

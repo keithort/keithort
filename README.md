@@ -4,9 +4,7 @@ Here is what I was working with last week according to WakaTime.
 <!--START_SECTION:waka-->
 
 ```text
-JSON         11 mins         ████████████████▒░░░░░░░░   65.15 %
-Git Config   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-Other        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
